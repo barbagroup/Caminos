@@ -6,6 +6,8 @@ A hands-on, 3-hr tutorial for the ["Caminos al Futuro"](https://summer.gwu.edu/c
 
 ## Lessons
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/barbagroup/Caminos/master)
+
 1. What is Jupyter?
 2. Python for Science
 3. Earth temperature over time
