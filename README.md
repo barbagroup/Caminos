@@ -22,3 +22,5 @@ The lessons are:
 1. What is Jupyter?
 2. Python for Science
 3. Earth temperature over time
+
+See the [introductory slides](https://slides.com/labarba/dsbetterworld/#/).
