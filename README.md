@@ -15,6 +15,12 @@ Click on the "Binder" button below to launch an interactive session with Jupyter
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/barbagroup/Caminos/master)
 
+Once the application launches (it can take a minute, depending on demand), you'll see the three lessons, with a little book icon next to them. Click on a lesson to start playing with it.
+
+The lessons are:
+
 1. What is Jupyter?
 2. Python for Science
 3. Earth temperature over time
+
+See the [introductory slides](https://slides.com/labarba/dsbetterworld/#/).
